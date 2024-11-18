@@ -1,0 +1,14 @@
+species_file                  : input/species.dat
+binding_energy_file           : input/binding_energy.dat
+reaction_file                 : input/reactions.dat
+abundance_file                : input/abundances.dat
+element_file                  : input/element.dat
+activation_energy_file        : input/surface_activation_energy.dat
+enthalpy_file                 : input/enthalpy_of_formation.dat
+number_of_gaseous_species     : 510
+number_of_species             : 725
+number_of_elements            : 13
+number_of_reactions           : 10156
+number_of_gas_phase_reactions : 7615
+is_chemical_desorption        : 1
+is_three_phase_reaction       : 0
